@@ -1,0 +1,8 @@
+{
+  "name": "SocialStream AI",
+  "description": "A powerful multi-account social media management platform with AI-driven content generation, scheduling, and repurposing capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
